@@ -1,11 +1,12 @@
 {
   "name": "mc-bot",
   "version": "1.0.0",
+  "description": "Minecraft AFK Bot for Aternos",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "mineflayer": "latest"
+    "mineflayer": "^4.20.1"
   }
 }
