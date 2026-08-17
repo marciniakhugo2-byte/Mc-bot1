@@ -4,7 +4,7 @@ const bot = mineflayer.createBot({
   host: 'PixelowyMc.aternos.me', 
   port: 14728,                   
   username: 'kuba21',            
-  version: '1.21.1',             // Spróbuj wpisać '1.21.1' zamiast 1.21.11 (często wersje silnika Paper różnią się w zapisie)
+  version: '1.21.11',             // Spróbuj wpisać '1.21.1' zamiast 1.21.11 (często wersje silnika Paper różnią się w zapisie)
   auth: 'offline',
   hideErrors: false
 });
